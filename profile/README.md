@@ -159,19 +159,19 @@
 
 - CI/CD
     - GitHub Action을 이용한 CI/CD 구현.
-    - Spring Cloud에서 동작하는 Spring 서버 자동 배포 기능 구현
+    - NHN Cloud에서 동작하는 Spring 서버 자동 배포 Shell script 구현
     - 서버 이중화와 Eureka, Nginx를 활용한 무중단 배포 구현
-    - 
 - 리뷰
     - 회원의 주문 내역에 따른 리뷰 작성 및 수정 기능 구현
     - 이미지 업로드 및 별점 기능 추가
-    - 
 - 포인트
     - 포인트 규정 CRUD 구현
+    - enum을 이용한 포인트 규정 별 전략 선택
     - 유저의 Event에 따라 EventListener 기반 포인트 적립 기능 구현
       
 - Elasticsearch
     - Elasticsearch에서 nori 한글 분석기를 이용한 한글 검색 기능 구현
+    - 데이터베이스와 동기화하기 위한 Logstash Docker를 이용하여 설정
     - 다양한 조건을 적용한 검색 필터링 기능 구현
 
 ### 👻정누리
