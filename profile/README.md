@@ -1,6 +1,6 @@
 # 📖 도서 판매 서비스 누리의 서재
 - 개발 기간 : 2024.10.14 ~ 2024.12.06 (약 8주)
-- 배포 URL : nuribooks.shop
+- 배포 URL : [nuribooks.shop](https://nuribooks.shop)
 
 <br>
 
