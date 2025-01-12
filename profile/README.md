@@ -68,6 +68,17 @@
   
 <br>
 
+## 시스템 아키텍처
+<img width="1035" alt="image" src="https://github.com/user-attachments/assets/89ceb3c0-4bca-4a04-9794-f2efa2c6efcd" />
+
+## CI/CD
+![image](https://github.com/user-attachments/assets/0a8e1392-da55-4503-8468-41fd9adf3d17)
+
+## ERD
+<p>https://www.erdcloud.com/d/ex62rEgj4hx77g4CA</p>
+
+<br>
+
 ## 프로젝트 규칙
 
 ### 1. 브랜치 전략
