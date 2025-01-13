@@ -164,7 +164,7 @@
     
 - Message Queue
   - 재고 업데이트 RabbitMQ 적용
-  - 도서쿠폰, 카테고리 쿠폰 발급 RabbitMQ 적용
+  - 도서쿠폰 발급 RabbitMQ 적용
 
 ### 🦝임건우
 
