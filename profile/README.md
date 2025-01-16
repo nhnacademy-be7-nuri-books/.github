@@ -170,7 +170,7 @@
 
 - CI/CD
     - GitHub Action을 이용한 CI/CD 구현.
-    - NHN Cloud에서 동작하는 Spring 서버 자동 배포 Shell script 구현
+    - NHN Cloud에서 동작하는 Spring 서버 자동 배포 Shell script 구현
     - 서버 이중화와 Eureka, Nginx를 활용한 무중단 배포 구현
 - 리뷰
     - 회원의 주문 내역에 따른 리뷰 작성 및 수정 기능 구현
